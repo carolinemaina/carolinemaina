@@ -1,6 +1,6 @@
 Hello 👋
 
-- 🔭 I’m currently working on cloud computing technologies 
+- 🔭 I’m currently working on learning python 
 - 🌱 I’m currently learning Software Engineering 
 - 👯 I’m looking to learn and collaborate on open source projects 
 - 🤔 I’m looking for help with expanding my network 
