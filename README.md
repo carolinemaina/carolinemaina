@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on becoming Cyber Security Certified<br>🌱 I’m currently learning cloud technologies<br>👯 I’m looking to learn and collaborate on Back-end technologies<br>🤔 I’m looking for help with expanding my network<br>⚡ Fun fact: I am a part-time streaming director with no media background
+🔭 I’m currently working on becoming Cyber Security Certified<br>🌱 I’m currently learning cloud technologies<br>👯 I’m looking to learn and collaborate on emerging tech<br>🤔 I’m looking for help with expanding my network<br>⚡ Fun fact: I am a part-time streaming director with no media background
 
 
 ## 🌐 Socials:
